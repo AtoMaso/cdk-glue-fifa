@@ -1,0 +1,3 @@
+1.git remote add origin https://github.com/AtoMaso/cdk-glue-fifa.git   // the name of the repo on the end in this case cdk-glue-fifa.git
+2.git branch -M main
+3.git push -u origin main
